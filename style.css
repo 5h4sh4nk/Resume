@@ -1,190 +1,242 @@
-<html>
-  <head>
-    <title>Resume</title>
-    <link rel="stylesheet" href="style.css">
-    <script src="https://unpkg.com/feather-icons"></script>
-  </head>
-  <body>
-    <div class="container gradient-background">
-      <div class="profile">
-        <div class="profile_container">
-          <div class="profile_image">
-            <img src="https://media.licdn.com/dms/image/D5603AQGT6te7nVWXYQ/profile-displayphoto-shrink_400_400/0/1672827691347?e=1706745600&v=beta&t=jJ3ctixmd21L7dEoDKMx_n-52nmPcL16pTipv6f9ZOA" alt="Shashank" style="height:300px; width:300px ">
-          </div>
-          <div class="name">
-            <h1 class="profile_name">Shashank N</h1>
-            <p class="profile_title">
-              Software Engineer, Biotechnologist
-            </p>
-            <p class="description">
-                Committed to staying at the forefront of technological advancements in biotechnology and software development. Dedicated in creating innovative solutions that have a positive impact on the field, empowering researchers and pharmaceutical professionals to make significant strides in improving humanity.Let's drive innovation together and create a brighter future.
-            </p>
-            <a class="download" href="">Download Pdf</a>
-          </div>
-        </div>
-      </div>
-      <div class="group1">
-        <div class="skills">
-          <h3 class="title"> Expertise<h3>
-              <ul class="skill_list description">
-                  <li>HTML</li>
-                  <li>CSS</li>
-                  <li>JavaScript</li>
-                  <li>PHP</li>
-                  <li>R Program</li>
-                  <li>MYSQL</li>
-                  <li>MariaDB</li>
-                  <li>PowerShell</li>
-                  <li>Jenkins</li>
-              </ul>
-        </div>
-        <div class="ref">
-            <h3 class="title">Projects</h3>
-            <div class="ref_item">
-                <h4 class="ref_name">xyz</h4>
-                <p class="description">
-                    Lorem ipsum dolor sit, amet consectetur adip
-                </p>
-            </div>
-            <div class="ref_item">
-                <h4 class="ref_name">xyz</h4>
-                <p class="description">
-                    Lorem ipsum dolor sit, amet consectetur adip
-                </p>
-            </div>
-        </div>
-        <div class="edu">
-            <h3 class="title">Education</h3>
-            <div class="edu_item">
-                <p class="item_preTitle">2021-2023</p>
-                <h4 class="item_title">Master's degree, Biotechnology (CGPA: 8.2)</h4>
-                <p class="item_subtitle">Ramaiah University of Applied Sciences</p>
-            </div>
-            <div class="edu_item">
-                <p class="item_preTitle">2018-2021</p>
-                <h4 class="item_title">Bachelor's degree(hons), Biotechnology (CGPA: 8.3)</h4>
-                <p class="item_subtitle">Ramaiah University of Applied Sciences</p>
-            </div>
-            <div class="edu_item">
-                <p class="item_preTitle">2017-2018</p>
-                <h4 class="item_title">Pre-University (Percentage: 80%)</h4>
-                <p class="item_subtitle">Sri Chaithanya PU College</p>
-            </div>
-            <div class="edu_item">
-                <p class="item_preTitle">2015-2016</p>
-                <h4 class="item_title">Secondary School Leaving Certificate (Percentage: 96%)</h4>
-                <p class="item_subtitle">Alvas English Medium High School</p>
-            </div>
-        </div>
-      </div>
-      <div class="group2">
-        <div class="exp">
-            <h3 class="title">Experience</h3>
-            <div class="exp_item">
-                <p class="item_preTitle">2023-present</p>
-                <h4 class="item_title">Merck Life Sciences</h4>
-                <p class="item_subtitle">Devolopment Engineer</p>
-                <p class="description">
-                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, distinctio a. Aliquid quidem dolore a. Temporibus atque possimus quos voluptates odio. Laborum ea cumque ratione illum odit fuga eveniet recusandae?
-                </p>
-            </div>
-            <div class="exp_item">
-                <p class="item_preTitle">Jan2023-Jul2023</p>
-                <h4 class="item_title">Merck Life Sciences</h4>
-                <p class="item_subtitle">Project Intern</p>
-                <p class="description">
-                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, distinctio a. Aliquid quidem dolore a. Temporibus atque possimus quos voluptates odio. Laborum ea cumque ratione illum odit fuga eveniet recusandae?
-                </p>
-            </div>
-            <div class="exp_item">
-                <p class="item_preTitle">Mar2021-May-2021</p>
-                <h4 class="item_title">Milann Fertility & Birthing Hospital</h4>
-                <p class="item_subtitle">Student Intern</p>
-                <p class="description">
-                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, distinctio a. Aliquid quidem dolore a. Temporibus atque possimus quos voluptates odio. Laborum ea cumque ratione illum odit fuga eveniet recusandae?
-                </p>
-            </div>
-        </div>
-        <div class="certification">
-            <h3 class="title">certification</h3>
-            <div class="certification_item">
-                <p class="item_preTitle">2020</p>
-                <h4 class="item_title">rgrgrg</h4>
-                <p class="description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam eos repudiandae reprehenderit explicabo asperiores quasi ex veniam? At odio praesentium recusandae provident minus, totam blanditiis sapiente neque, consequuntur incidunt voluptates.</p>
-            </div>
-            <div class="certification_item">
-                <p class="item_preTitle">2020</p>
-                <h4 class="item_title">rgrgrg</h4>
-                <p class="description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam eos repudiandae reprehenderit explicabo asperiores quasi ex veniam? At odio praesentium recusandae provident minus, totam blanditiis sapiente neque, consequuntur incidunt voluptates.</p>
-            </div>
-            <div class="certification_item">
-                <p class="item_preTitle">2020</p>
-                <h4 class="item_title">rgrgrg</h4>
-                <p class="description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam eos repudiandae reprehenderit explicabo asperiores quasi ex veniam? At odio praesentium recusandae provident minus, totam blanditiis sapiente neque, consequuntur incidunt voluptates.</p>
-            </div>
-            <div class="certification_item">
-                <p class="item_preTitle">2020</p>
-                <h4 class="item_title">rgrgrg</h4>
-                <p class="description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam eos repudiandae reprehenderit explicabo asperiores quasi ex veniam? At odio praesentium recusandae provident minus, totam blanditiis sapiente neque, consequuntur incidunt voluptates.</p>
-            </div>
-        </div>
-        <div class="interest">
-            <h3 class="title">interests</h3>
-            <div class="interest_items">
-                <div class="interest_item">
-                    <i data-feather="music"></i>
-                    <span>Music</span>
-                </div>
-                <div class="interest_item">
-                    <i data-feather="music"></i>
-                    <span>Music</span>
-                </div>
-                <div class="interest_item">
-                    <i data-feather="music"></i>
-                    <span>Music</span>
-                </div>
-            </div>
-        </div>
-      </div>
-      <hr>
-      <div class="group3">
-        <div class="contact">
-            <h3 class="title">Contact</h3>
-            <div class="contact_info">
-                <p class="description">
-                    blore
-                </p>
-                <p class="description">
-                    63437483748374
-                </p>
-                <p class="description">
-                    @rrfref
-                </p>
-            </div>
-          </div>
-          <div class="socials">
-            <h3 class="title">Socials</h3>
-            <div class="social_items">
-                <a href="http://" class="social_item">
-                    <i data-feather="github"></i>
-                    <span>github</span>
-                </a>
-                <a href="http://" class="social_item">
-                    <i data-feather="linkedin"></i>
-                    <span>github</span>
-                </a>
-                <a href="http://" class="social_item">
-                    <i data-feather="instagram"></i>
-                    <span>github</span>
-                </a>
-            </div>
-        </div>
-      </div>
-      
-    </div>
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
 
-    <script>
-        feather.replace()
-    </script>
-  </body>
-</html>
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root{
+  --primary-color: #ff7613;
+  --text-color: #727171;
+}
+/*common style*/
+html{
+  font-size: 10px;
+}
+
+body{
+  font-family: Inter, sans-serif;
+  background-color:rgb(0, 0, 0);
+  color:rgb(255, 255, 255);
+}
+
+img{
+  width:100%;
+  border-radius: 50%;
+}
+
+a{
+  text-decoration:none;
+  color:white;
+}
+.description{
+  margin-top: 1rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  color: var(--text-color);
+}
+.title{
+    color: var(--primary-color);
+    font-weight:  700;
+    font-size: 2rem;
+    text-transform: uppercase;
+}
+.item_pretitle{
+    font-size: 1.4rem;
+    color: var(--text-color);
+    font-weight:300;
+}
+.item_title{
+    font-size: 1.6rem;
+    color: white;
+    font-weight: 500;
+    margin: 0.8rem 0;
+}
+.item_subtitle{
+    font-size: 1.4rem;
+    color: var(--text-color);
+    font-weight: 400;
+}
+/*layouts*/
+.container{
+  max-width: 800px;
+  width: 90%;
+  margin: 0 auto;
+  display: grid;
+  padding: 5rem;
+  background: #070707;
+  grid-template-columns: 1fr 1fr;
+  gap: 4rem;
+}
+
+@media(max-width: 800px){
+  .container{
+    width: 100%;
+    grid-template-columns: 1fr;
+    padding: 3rem;
+    gap: 7rem;
+  }
+}
+
+.profile{
+  grid-column: 1/-1;
+  margin-bottom: 2rem;
+}
+.group1, .group2{
+    display: flex;
+    flex-direction: column;
+    gap: 5rem;
+}
+.group3{
+    max-width: 800px;
+    width: 100%;
+    margin: 0 auto;
+    grid-column: 1/-1;
+    display: flex;
+    flex-direction: row;
+    gap: 45rem;
+
+}
+.group3>div{
+    flex: 1;
+}
+@media(max-width: 800px){
+    .profile{
+        margin-bottom: 0;
+    }
+    .group3{
+        flex-direction: column;
+    }
+}
+/*profile*/
+.profile_container{
+  display: flex;
+  gap: 8rem;
+  flex-direction: row;
+  }
+.profile_image{
+  max-width: 250px;
+}
+.name{
+  width: 500px
+}
+.profile_name{
+  color: var(--primary-color);
+  font-weight: 700;
+  font-size: clamp(0.5rem, 7vw, 4rem);
+  text-transform: uppercase;
+  display:block;
+}
+.profile_title{
+  font-size: 1.5rem;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+.download{
+  display:block;
+  text-decoration:underline;
+  font-size: 1.6rem;
+  margin-top: 1rem;
+}
+.download:hover{
+  color: var(--primary-color);
+}
+@media(max-width: 800px){
+  .profile_container{
+    flex-direction: column;
+  }
+}
+
+/*Expertise*/
+.skill_list{
+    margin-top: 1rem;
+    margin-left: 2rem;
+    line-height: 2;
+
+}
+
+/* Reference */
+.ref_item{
+    margin-top: 2rem;
+}
+.ref_name{
+    font-size: 1.6rem;
+    font-weight: 700;
+}
+
+/* education */
+.edu_item{
+    margin-top: 3rem;
+}
+
+/* certification */
+.certification_item{
+    margin-top: 2rem;
+}
+
+/* experience */
+.exp_item{
+    margin-top: 2rem;
+}
+
+/* awards */
+.awards_item{
+    margin-top: 2rem;
+}
+
+/* interests */
+.interest_items{
+    margin-top: 2rem;
+    display:flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+.interest_item{
+    font-size: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    color: var(--text-color);
+}
+.interest_item svg{
+    width: 2rem;
+}
+
+/* socials */
+.social_items{
+    margin-top: 2rem;
+}
+.social_item{
+    margin-top: 1.5rem;
+    font-size: 1.5rem;
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+    justify-content: flex-start;
+    color: var(--text-color);
+}
+.social_item:hover{
+    color: var(--primary-color);
+}
+.social_item svg{
+    width: 2rem;
+}
+hr{
+    grid-column: 1/-1;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 5rem;
+    margin-bottom: 1rem;
+    border: none;
+    border-top: 2px solid rgba(128, 128, 128, 0.366);
+}
+
+@media(max-width:800px){
+    hr{
+        margin: 0 auto;
+    }
+}
